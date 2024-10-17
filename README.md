@@ -71,7 +71,7 @@ The primary dataset utilized for this analysis is sourced from the "IMDB" file, 
 
 This analysis reveals that movie success is driven by multiple factors, including budget, genre, key contributors (directors, writers, and stars), and market trends. The following conclusions can be drawn:
 - Big budgets often lead to higher gross revenues, particularly in genres like Action and Drama
-- The influence of directors and stars is significant in determining a movie’s box office performance and critical reception.
+- The influence of directors and stars significantly determines a movie’s box office performance and critical reception.
 
 
 
